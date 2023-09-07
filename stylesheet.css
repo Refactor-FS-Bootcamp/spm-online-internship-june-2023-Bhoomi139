@@ -1,0 +1,133 @@
+*{
+box-sizing: border-box;
+list-style: none;
+
+}
+body{
+    margin: 0px;
+}
+header
+{
+    position: fixed;
+width: 100%;
+height: 100px;
+left: 0px;
+right:0px;
+background-color:#4f7942 ;
+top: 0px;
+}
+.image img{
+    height: 90px;
+    padding-top: 2px;
+    float: left;
+}
+nav{
+    text-align: center;
+padding-top: 40px;
+margin-left: 40px;
+}
+nav a{
+text-decoration:none ;
+color: white;
+padding-left: 15px;
+padding-right: 30px;
+text-align: center;
+
+}
+.login{
+    font-size: 16px;
+    float: right;
+    padding-top: 0;
+    color:#feb859 ;
+    margin-top: 0;
+    text-align: center;
+}
+.bg{
+     width: 110%;
+     position: absolute;
+     z-index: -1;
+     opacity: 0.6;
+}
+.text{
+    padding-bottom: 0px;
+    margin-bottom: 0px;
+    font-size: 60px;
+    text-align: center;
+    margin-left: 40px;
+    padding-top:20px ;
+}
+.cards{
+    padding-top: 20px;
+    display: flex;
+    justify-content: center;
+}
+.card-image img{
+    padding-left: 30px;
+    margin-left: 30px;
+    padding-right: 20px;
+    padding-bottom: 30px;
+    width: 30%;
+    height: 300px;
+    justify-content: space-between;
+}
+.ins a{
+    text-decoration: none;
+    margin-left: 20px;
+    padding-left: 30px;
+    color: #8c1e55;
+    font-size: 20px;
+}
+.adv a{
+    text-decoration: none;
+    padding-left: 50px;
+    color: #8c1e55;
+    font-size: 20px;
+}
+.policy a{
+    text-decoration: none;
+    padding-left: 110px;
+    color: #8c1e55;
+    font-size: 20px;
+}
+.title{
+    height: 30px;
+    padding-bottom: 60px;
+}
+
+.img{
+    padding-top: 20px;
+    display: flex;
+    justify-content: center;
+}
+.spm img{
+    padding-left: 30px;
+    margin-left: 30px;
+    padding-right: 20px;
+    padding-bottom: 30px;
+    width: 30%;
+    height: 300px;
+    justify-content: space-between;
+}
+.divya a{
+    text-decoration: none;
+    margin-left: 20px;
+    padding-left: 50px;
+    color: #8c1e55;
+    font-size: 20px;
+}
+.bhoomi a{
+    text-decoration: none;
+    padding-left: 140px;
+    color: #8c1e55;
+    font-size: 20px;
+}
+.tanya a{
+    text-decoration: none;
+    padding-left: 300px;
+    color: #8c1e55;
+    font-size: 20px;
+}
+.ravina{
+    height: 30px;
+    padding-bottom: 60px;
+}

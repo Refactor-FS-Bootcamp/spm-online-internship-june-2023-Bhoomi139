@@ -1,0 +1,221 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.header{
+    position:fixed;
+    width:100%;
+    height:100px;
+    left:0px;
+    right:0px;
+    background-color: #4F7942;
+    top: 0px
+
+}
+.image img{
+    height:90px;
+    padding-top:2px;
+    float:left;
+    
+}
+.Nav{
+    
+    text-align: center;
+    padding-top: 40px;
+    margin-left: 40px;
+    
+
+}
+.Nav a{
+    text-decoration:none;
+    color:white;
+    padding-left: 35px;
+    padding-right: 30px;
+    text-align: center;
+
+}
+.Login{
+    float: right;
+    padding-top: 0;
+    color: white;
+    margin-top: 0;
+}
+.Login a{
+    color: white;
+    text-decoration: none;
+}
+.background img{
+    margin-top: 50px;
+    left:0;
+    right:0;
+    width: 100%;
+    height:675px;
+    
+}
+.What{
+    color:#509F5F;
+    font-size: 60px;
+    padding-left: 10px;
+}
+.fasal{
+    color:#509F5F;
+    font-size: 60px;
+
+    padding-left: 100px
+
+}
+.does{
+    font-size: 30px;
+}
+.offer{
+    font-size: 30px;
+}
+ .cards{
+    padding-top: 20px;
+    display: flex;
+    justify-content: center;
+ }   
+ .Card-image{
+
+width: 100%;
+height:310px;
+ }
+ .Card-image img{
+    padding-left: 85px;
+    padding-right: 15px;
+    width:25%;
+    height:300px;
+    justify-content: space-between;
+    
+    
+ }
+ .wow{
+    height:200px;
+    padding-right:25px;
+    width:60px;
+ }
+ cards h6{
+    display: block
+    
+ }
+ .ins{
+    margin-left: 100px;
+    padding-left: 60px;
+ }
+ .adv{
+    padding-left:300px;
+ }
+ .policy{
+    padding-left: 300px;
+ }
+ .title{
+    height: 30px;
+    padding-bottom: 60px;
+ }
+ .objective{
+    height: 310px;
+    width: 100%;
+    background-color: #2AAA8A;
+    padding-bottom: 10px;
+ }
+ .initiative{
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 60px;
+    color: white;
+ }
+ .photo img{
+    float: right;
+    height: 220px;
+
+ }
+ .Text{
+    float:left;
+    padding-top: 20px;
+ }
+ .next{
+    width:100%;
+    height:100px;
+    
+    padding-top:20px;
+ }
+ .container3{
+    width:100%;
+    height:320px;}
+
+    .container4{
+        width:100%;
+        height:600px;
+    }
+.container4 h1{
+padding-top: 30px;
+text-align: center;
+font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+
+}
+.div1{
+    height: 50px;
+    width:50%;
+    background-color: #B2BEB5;
+    padding-left: 20px;
+    margin-left: 20px;
+    margin-top: 30px;
+}
+.div2{
+    height: 50px;
+    width:50%;
+    background-color: #B2BEB5;
+    padding-left: 20px;
+    margin-left: 20px;
+    margin-top: 30px;
+
+}
+.div3{
+    height: 50px;
+    width:50%;
+    background-color: #B2BEB5;
+    padding-left: 20px;
+    margin-left: 20px;
+    margin-top: 30px;
+}
+.div4{
+    height: 50px;
+    width:50%;
+    background-color: #B2BEB5;
+    padding-left: 20px;
+    margin-left: 20px;
+    margin-top: 30px;
+}
+.div5{
+    height: 50px;
+    width:50%;
+    background-color: #B2BEB5;
+    padding-left: 20px;
+    margin-left: 20px;
+    margin-top: 30px;
+}
+.span1{
+    padding-top: 5px;
+    margin-top: 5px;
+    
+}
+.image1{
+float: right;
+padding-top: 45px;
+}
+
+.container5{
+    background-color: black;
+    width: 100%;
+    height:200px;
+
+}
+.container5 span{
+    color: white;
+    padding-top: 20px;
+    margin-top: 20px;
+}
+    
+ 
+
+    
